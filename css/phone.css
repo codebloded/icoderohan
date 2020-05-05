@@ -1,0 +1,59 @@
+/* NAVIGATION BAR  */
+.nav li a{
+    margin: 12px 1px;
+    padding: 2px 42px;
+   
+}
+
+/* HOME SECTION  */
+#home img {
+   
+    width: 81%;
+    height: 21.4rem;
+    margin-top: 276px;
+}
+
+.quote p{
+    font-size: 32px
+}
+
+.name h1{
+    font-size: 55px;
+}
+#bgimgx{
+    width: fit-content;  
+}
+
+
+.skill-imgs{
+    margin: 4px 2px;
+}
+.img-contact-box img{
+    margin: auto 7px;
+    height: 3rem;
+    width: 2.9rem;
+}
+.img-contact-box{
+    margin: 2px 3px ;
+}
+#home .section1{
+    padding: 4px;
+    margin: 16px;
+}
+
+#home{
+    height: 185vh;
+}
+#bgxhome{
+    width: fit-content;
+    height: 100vh;          
+}
+#contact h2{
+    margin-bottom: 10px;
+    margin-top: 24px;
+}
+#contact hr {
+    width: 54%;
+    margin-bottom: 20px;
+}
+
