@@ -74,7 +74,7 @@
 SECTION-1
 ======================== */
 #home{
-    background: url(../img/backmmmmmm.jpg) no-repeat center center/cover;
+    background: url(../img/Confetti-Doodles\ \(1\).svg) no-repeat center center/cover;
     background-size: auto;
     display: flex;
     flex-direction: column;
@@ -88,8 +88,8 @@ SECTION-1
 
 #home img{
     display: block;
-    width: 77%;
-    height: 18.4rem;
+    width: 37%;
+    height: 13.4rem;
     margin: 13px auto;
     margin-top: 130px;
     border-radius: 50%;
@@ -246,7 +246,7 @@ contact SECTION
 }
 
 #bgimgx{
-    background: url(../img/backgroundbmx.jpg) no-repeat center center/cover;
+    background: url(../img/Confetti-Doodles\ \(1\).svg) no-repeat center center/cover;
     height: auto;
 }
 
@@ -289,3 +289,13 @@ contact SECTION
     margin-top: 40px;
 }
 
+.btn{
+    color: white;
+    font-size: 1.5rem;
+    margin: 12px;
+    padding: 34px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    box-shadow: 2px 1px 8px 1px #ffffff2b;
+}
